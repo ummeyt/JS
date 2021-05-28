@@ -1,0 +1,9 @@
+{
+  "name": "js-node-js-practice",
+  "version": "0.0.0",
+  "description": "JS NodeJS Practice",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
